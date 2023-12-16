@@ -1,0 +1,26 @@
+/* style.css */
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+.no-border-bottom td {
+    border-bottom: none !important;
+}
+
+.container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+    padding: 20px; 
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
