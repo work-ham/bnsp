@@ -6,11 +6,7 @@ Struktur Folder/Hirarki
 
     berkas_pemohon: Folder ini digunakan untuk menyimpan berkas yang diunggah oleh pemohon beasiswa.
 
-    css: Tidak ada pada kode yang diberikan, namun direkomendasikan untuk menyimpan file CSS jika diperlukan.
-
-    js: Tidak ada pada kode yang diberikan, namun direkomendasikan untuk menyimpan file JavaScript jika diperlukan.
-
-    README.txt: File ini, berisi penjelasan mengenai struktur folder dan sumber daya pemrograman.
+    README.md: File ini, berisi penjelasan mengenai struktur folder dan sumber daya pemrograman.
 
     index.php: Halaman utama pilihan beasiswa.
 
